@@ -1,0 +1,13 @@
+@import "./src/style/common.scss";
+
+.page {
+    .content {
+        display: flex;
+        justify-content: flex-end;
+
+        .link {
+            font-size: 22px;
+            cursor: pointer;
+        }
+    }
+}
