@@ -1,4 +1,10 @@
-.page{
+.page {
     width: 1440px;
     margin: 0 auto;
+}
+
+.column_center {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
 }
